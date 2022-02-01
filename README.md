@@ -5,7 +5,9 @@ This repo is a reproducer for [KT-51034](https://youtrack.jetbrains.com/issue/KT
 2. transfer Swift to Objc and make it correct in iosApp
 3. make a VCDelegate to receive lifecycle from iOS
 4. start invoking CADisplayLink.displayLinkWithTarget when viewDidAppear
-5. boom!
+5. run sh gradlew clean
+6. run "iosApp" in AndroidStudio or in Xcode
+7. boom!
 
 ### Env
 
