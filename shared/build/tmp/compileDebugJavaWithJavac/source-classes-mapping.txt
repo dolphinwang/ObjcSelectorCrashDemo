@@ -1,2 +1,0 @@
-org/dolphinwang/sample/BuildConfig.java
- org.dolphinwang.sample.BuildConfig
