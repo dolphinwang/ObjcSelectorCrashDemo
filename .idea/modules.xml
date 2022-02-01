@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObjcSelectorCrashDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ObjcSelectorCrashDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/ObjcSelectorCrashDemo.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/ObjcSelectorCrashDemo.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObjcSelectorCrashDemo.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/ObjcSelectorCrashDemo.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/ObjcSelectorCrashDemo.shared.iosTest.iml" />
+    </modules>
+  </component>
+</project>

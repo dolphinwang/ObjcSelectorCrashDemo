@@ -1,0 +1,1 @@
+/Users/bytedance/Documents/bytecompose/codebase/ObjcSelectorCrashDemo/buildSrc/build/classes/kotlin/main/Version.class
